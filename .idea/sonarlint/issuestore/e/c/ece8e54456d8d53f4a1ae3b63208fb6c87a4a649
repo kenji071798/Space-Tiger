@@ -1,0 +1,12 @@
+
+	java:S116%"dRename this field "REQUEST_CODE_FILE_CHOOSER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®«t8Ó»ÂÆÕ1
+=
+java:S1170%"!Make this final field static too.(²®«t8Û»ÂÆÕ1
+x
+java:S1450#"VRemove the "loadUrl" field and declare it as a local variable in the relevant methods.(¤ç÷áúÿÿÿÿ8ê»ÂÆÕ1
+v
+java:S1450$"YRemove the "webpageUri" field and declare it as a local variable in the relevant methods.(ãßÅ8ì»ÂÆÕ1
+^	java:S125"<This block of commented-out lines of code should be removed.(³ÇäÚûÿÿÿÿ8Ÿ¼ÂÆÕ1
+^	java:S125œ"<This block of commented-out lines of code should be removed.(ŸÑÀ¡úÿÿÿÿ8¬¼ÂÆÕ1
+K
+java:S1068$".Remove this unused "webpageUri" private field.(ãßÅ8¾¼ÂÆÕ1

@@ -1,0 +1,33 @@
+
+b	java:S116"MRename this field "Ox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çûœ¬
+c	java:S116"NRename this field "OxX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÖ–ß
+c	java:S116"NRename this field "OxY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ–³µ
+f	java:S116"RRename this field "OxSpeed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éíå?
+?
+java:S1659"*Declare "canvasHeight" on a separate line.(†Ìåw
+Y
+java:S1659"CDeclare "appleY" and all following declarations on a separate line.(°ÙÏ¬
+^
+java:S1659"CDeclare "grapeY" and all following declarations on a separate line.(É©Ğîüÿÿÿÿ
+X
+java:S1659"BDeclare "bombY" and all following declarations on a separate line.(ª•¼Ê
+C
+java:S1659#"-Declare "lifeCounterOfOx" on a separate line.(†¹öÂ
+p
+java:S1450"[Remove the "canvasHeight" field and declare it as a local variable in the relevant methods.(†Ìåw
+o
+java:S1450"ZRemove the "canvasWidth" field and declare it as a local variable in the relevant methods.(†Ìåw
+@
+java:S1197"*Move the array designators [] to the type.(çûœ¬
+@
+java:S1197*"*Move the array designators [] to the type.(Ö’¨Ç
+m
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÕÆ¾ùıÿÿÿÿ
+?
+java:S2140x")Use "java.util.Random.nextInt()" instead.(ˆÔ’
+@
+java:S2140…")Use "java.util.Random.nextInt()" instead.(´˜•Ö
+@
+java:S2140œ")Use "java.util.Random.nextInt()" instead.(­øé‚
+]
+java:S1126²"AReplace this if-then-else statement by a single return statement.(Êú¨‚ûÿÿÿÿ

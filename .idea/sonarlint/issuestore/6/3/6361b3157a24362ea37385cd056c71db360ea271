@@ -1,0 +1,26 @@
+
+g	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(าา้üÿÿÿÿ8ษากี1
+p
+java:S1104"SMake gameURL a static final constant or non-public and provide accessors if needed.(็ว๕๒8คษากี1
+w
+java:S1104"UMake appStatus a static final constant or non-public and provide accessors if needed.(ýตืฌýÿÿÿÿ8คษากี1
+y
+java:S1104"WMake apiResponse a static final constant or non-public and provide accessors if needed.(ฌฦๆ๘๛ÿÿÿÿ8คษากี1
+J
+java:S1444"-Make this "public static gameURL" field final(็ว๕๒8คษากี1
+Q
+java:S1444"/Make this "public static appStatus" field final(ýตืฌýÿÿÿÿ8คษากี1
+S
+java:S1444"1Make this "public static apiResponse" field final(ฌฦๆ๘๛ÿÿÿÿ8คษากี1
+s	java:S116"RRename this field "MyPrefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ีภüส๘ÿÿÿÿ8คษากี1
+q
+java:S1450"TRemove the "crypt" field and declare it as a local variable in the relevant methods.(๕ปโ8ดษากี1
+X
+java:S2696@"6Make the enclosing method "static" or remove this set.(‘๖๓๙ÿÿÿÿ8ฤษากี1
+W
+java:S2209D"5Change this instance-reference to a static reference.(ฝ๋…๘ÿÿÿÿ8ฤษากี1
+S
+java:S2696G"6Make the enclosing method "static" or remove this set.(“ดๅอ8ฤษากี1
+S
+java:S2696H"6Make the enclosing method "static" or remove this set.(ฦ๚เฉ8ฤษากี1
+X	java:S125g"<This block of commented-out lines of code should be removed.(๙ตะบ8ำษากี1

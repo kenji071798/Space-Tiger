@@ -1,0 +1,27 @@
+
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+e
+5app/src/main/java/dev/kenji/fruiteater/AppPolicy.java,b\a\ba77c9eee692df92fe6ca1ba04956cfcd6b85132
+j
+:app/src/main/java/dev/kenji/fruiteater/SplashActivity.java,6\3\6361b3157a24362ea37385cd056c71db360ea271
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+h
+8app/src/main/java/dev/kenji/fruiteater/MainActivity.java,9\e\9ea79b1205ae1c14f14d15dc186b60c00d81c49d
+h
+8app/src/main/java/dev/kenji/fruiteater/FlyingOxView.java,d\c\dc0828383a10cca83403211d6477c7f46d8a57cb
+h
+8app/src/main/java/dev/kenji/fruiteater/MCryptHelper.java,9\e\9e42de4a58241cea450e36e732d9c9fbc02a7700
+l
+<app/src/main/java/dev/kenji/fruiteater/WebViewReplaceUA.java,2\e\2e171dfcf360d09fb8615dbefb844fd751d5c7bf
+l
+<app/src/main/java/dev/kenji/fruiteater/GameOverActivity.java,1\7\1710fe4d4e6c39e2d2900aa01c9078e3f533e034
+k
+;app/src/main/java/dev/kenji/fruiteater/AdjustSDKHelper.java,a\1\a10111d16383619986aa5a1e9bae4a086fa908e0
+m
+=app/src/main/java/dev/kenji/fruiteater/LaunchWebActivity.java,e\c\ece8e54456d8d53f4a1ae3b63208fb6c87a4a649
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e

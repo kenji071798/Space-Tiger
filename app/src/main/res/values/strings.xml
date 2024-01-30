@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruit Eater</string>
+    <string name="web_access_for_html_data_consent">Web Access for HTML Data Consent</string>
+</resources>
